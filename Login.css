@@ -1,0 +1,48 @@
+.h{
+   margin-left: 40px;
+    margin-top: 60px;
+}
+.log{
+    background-color: rgb(248, 208, 244);
+    height: 400px;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+.he{
+   text-align: center;
+   padding-top: 30px;
+
+}
+.inp{
+    text-align: center;
+   margin-left: 96px;
+   margin-top: 10px;
+   border: none;
+   border-bottom: solid gray 1px;
+   width: 280px;
+   height: 30px;
+   border-radius: 8px;
+}
+.btnn{
+    margin-left: 175px;
+    background-color: rgb(168, 75, 148);
+    margin-top: 20px;
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+}
+.main{
+    display: flex;
+    margin-top: -20px;
+    
+}
+.img{
+    width: 400px;
+    margin-left: -30px;
+}
+.img1{
+    width: 350px;
+    margin-left: 50px;
+}

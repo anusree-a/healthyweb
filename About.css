@@ -1,0 +1,61 @@
+.mh-ab{
+    color: rgb(138, 20, 118);
+   
+   margin-left: 20px;
+   padding-top: 20px;
+}
+.mission-para{
+    color: rgb(83, 10, 44);
+    max-width: 550px;
+   padding-left: 20px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+.mission{
+   
+    width: 600px;
+    height: 250px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.card-ab{
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(136, 56, 103);
+    box-shadow: 0 0 25px rgb(187, 70, 158);
+    
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.cards-ab{
+    display: flex;
+    margin-bottom: 20px;
+   margin-left: 125px;
+   gap: 30px;
+}
+.mh2-ab{
+    color: rgb(138, 20, 118);
+   
+   margin-left: 120px;
+   padding-top: 20px;
+}
+.ico-abt{
+    font-size: 80px;
+   margin-left: 50px;
+   margin-top: 20px;
+   color: rgb(97, 11, 75);
+}
+.val-abt{
+    color: rgb(124, 27, 111);
+    margin-left: 10px;
+}
+.val3-abt{
+    color: rgb(124, 27, 111);
+    margin-left: 45px;
+}
+.imabd{
+    height: 250px;
+    width: 300px;
+    margin-left: 800px;
+    margin-top: -200px;
+} 

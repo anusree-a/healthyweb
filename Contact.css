@@ -1,0 +1,44 @@
+.hcont{
+    color: rgb(148, 26, 87);
+    margin-left: 500px;
+    margin-top: 30px;
+}
+.card1-cont{
+    width: 150px;
+    height: 65px;
+    background-color: rgb(247, 225, 241);
+    display: flex;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.card1-cont:hover{
+    transform: scale(1.06);
+    box-shadow: 0 0 30px rgb(247, 179, 232) ;
+}
+.row-cont{ 
+    display: flex;
+    gap: 50px;
+    margin-left: 320px;
+}
+.ico1-ico{
+        font-size: 50px;
+        color: rgb(87, 16, 55);
+}
+.emh{
+    color: rgb(167, 36, 123);
+    margin-top: 30px;
+}
+.h6-l{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.medil{
+    height: 460px;
+    width: 700px;
+   border: 3px solid rgb(175, 12, 102);
+   box-shadow: 0 0 25px pink;
+   border-radius: 10px;
+    margin-left: 250px;
+    margin-bottom: 30px;
+    margin-top: 30px; 
+}

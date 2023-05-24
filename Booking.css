@@ -1,0 +1,164 @@
+.head1-book{
+    color: rgb(180, 74, 163);
+    margin-left: 35px;
+    margin-top: 10px;
+}
+.card-book{
+    height: 315px;
+    width: 250px;
+    border-radius: 15px;
+    border: 2px solid rgb(180, 74, 163);
+    background-color: rgb(250, 238, 249);
+}
+.card-book:hover{
+    transform: scale(1.05);
+}
+.cards-book{
+    display: flex;
+    gap: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+.doc-book{
+    height:180px;
+    width: 180px;
+   margin-left: 30px;
+   margin-top: 15px;
+   border-radius: 100px;
+}
+.line-book{
+    height: 2px;
+    width: 247px;
+  margin-top: 15px;
+    background-color:  rgb(180, 74, 163);
+}
+.docname-book{
+    color: rgb(156, 17, 133);
+    text-align: center;
+    margin-top: 5px;
+}
+.deg-book{
+    text-align: center;
+    color: rgb(156, 17, 133) ;
+}
+.head2-book{
+    color: rgb(124, 18, 107);
+    margin-top: 15px;
+    text-align: center;
+}
+
+
+
+.main{
+    display: flex;
+    margin-top: 60px;
+ 
+}
+.bb{
+    background-color: rgb(255, 232, 252);
+    height: 550px;
+    width: 500px;
+    margin-left: 80px;
+    border-radius: 20px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+   
+}
+.inp2{
+    text-align: center;
+   margin-left: 80px;
+   margin-top: 10px;
+   border: none;
+   border-bottom: solid gray 1px;
+   width: 350px;
+   height: 50px;
+   border-radius: 8px;
+}
+.btnn{
+    margin-left: 200px;
+    background-color: rgb(235, 177, 215);
+    margin-top: 20px;
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+}
+.head3-book{
+    color: rgb(124, 18, 107);
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.b3{
+    background-color: rgb(255, 232, 252);
+    height: 500px;
+    width: 500px;
+    margin-left: 30px;
+    border-radius: 20px;
+    margin-top: 60px;
+   
+}
+.right-book{
+    height: 50px;
+    width: 300px;
+   
+    margin-left: 70px;
+    margin-top: -10px;
+}
+.ico-book{
+     font-size: 40px;
+     color: rgb(94, 28, 61);
+     cursor: pointer;
+}
+.p-video{
+    color: rgb(128, 48, 88);
+    margin-left: -10px;
+}
+.rflex-book{
+    display: flex;
+}
+.inp-book{
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 50px;
+    border: none;
+    border-bottom: solid gray 1px;
+    width: 200px;
+    height: 50px;
+    border-radius: 8px;
+}
+.flx{
+    display: flex;
+}
+.docvec-book{
+    height: 250px;
+    width: 300px;
+    margin-top:320px;
+    margin-left: -375px;
+}
+.doc-bookh{
+    height:150px;
+    width: 200px;
+   margin-left: 20px;
+   margin-top: 15px;
+   border-radius: 10px;  
+}
+.cardh-book{
+    height: 300px;
+    width: 250px;
+    border-radius: 15px;
+    border: 2px solid rgb(180, 74, 163);
+    background-color: rgb(239, 220, 240);
+    margin-bottom: 30px;
+}
+.cardh-book:hover{
+    transform: scale(1.05);
+}
+.btnhs{ 
+
+    height: 25px;
+    border-radius: 7px;
+    width: 100px;
+    background-color: rgb(236, 167, 210);
+    margin-left: 70px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

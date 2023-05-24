@@ -1,0 +1,84 @@
+.content-consult{
+    height: 450px;
+    width: 600px;
+    border: 3px solid rgb(110, 5, 67);
+    box-shadow: 0 0 25px pink;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.icodoc-con{
+   font-size:150px; 
+    color: rgb(119, 22, 76);
+   
+    margin-left: 225px;
+  padding-top: -50px;
+}
+.don-con{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.don-con2{
+    margin-left: 210px;
+    margin-top: 15px;
+}
+.online-con{
+   margin-top: -500px;
+   height: 500px;
+   width: 450px;
+   margin-left: 640px;
+}
+.btn-con{
+    width: 200px;
+    height: 30px;
+    background-color: rgb(253, 183, 247);
+    color: black;
+    border-radius: 10px;
+    margin-left: 190px;
+    margin-top: 10px;
+}
+.btns-con{
+    display:grid;
+    gap:15px
+}
+.medi{
+    height: 600px;
+    width: 700px;
+   border: 3px solid rgb(175, 12, 102);
+   box-shadow: 0 0 25px pink;
+   border-radius: 10px;
+    margin-left: 250px;
+    margin-bottom: 30px;
+    margin-top: 30px; 
+}
+.h1medi{
+    color: rgb(114, 9, 67);
+    margin-left: 110px;
+    margin-top: 10px;
+}
+.inpmed{
+    text-align: center;
+    margin-left: 170px;
+    margin-top: 10px;
+    border: none;
+    border-bottom: solid gray 1px;
+    width: 350px;
+    height: 50px;
+    border-radius: 8px;
+}
+.btnnmed{
+    margin-left: 300px;
+    background-color: rgb(235, 177, 215);
+    margin-top: 20px;
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+}
+.dnc{
+    border-radius: 100px;
+    margin-left: 200px;
+    height: 150px;
+    width: 150px;
+    margin-top: 40px;
+} 
