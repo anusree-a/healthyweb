@@ -15,7 +15,7 @@
     transform: scale(1.06);
     box-shadow: 0 0 30px rgb(247, 179, 232) ;
 }
-.row-cont{
+.row-cont{ 
     display: flex;
     gap: 50px;
     margin-left: 320px;

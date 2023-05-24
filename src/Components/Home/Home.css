@@ -34,7 +34,7 @@
 .card2:hover{
     transform: scale(1.06);
     box-shadow: 0 0 30px rgb(247, 179, 232) ;
-}
+} 
 .card3{
     width: 200px;
     height: 40px;

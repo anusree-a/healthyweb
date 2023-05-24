@@ -25,7 +25,7 @@ function Contact() {
             <h5 className='emh' >FACEBOOK</h5>
           </div>
           </div>
-
+ 
           <div className="medil">
         <h3 className='h1medi' >Got questions?</h3>
         <h6 className='h6-l' >Send us email or</h6>

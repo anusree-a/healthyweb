@@ -45,7 +45,7 @@ function Booking() {
          <h6 className='deg-book' >MBBS,MD,MS</h6>
          <h6 className='deg-book'  >Physician</h6>
       </div>
-
+ 
 
       </div>
       

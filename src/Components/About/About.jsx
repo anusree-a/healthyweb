@@ -24,7 +24,7 @@ function About() {
         <div className="card-ab">
         <a className="ico-abt" href=""><FaRegHospital/></a>
           <h4 className='val-abt' > We are genuine </h4>
-        </div>
+        </div> 
 
         <div className="card-ab">
         <a className="ico-abt" href=""><GiShakingHands/></a>

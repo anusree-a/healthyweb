@@ -15,7 +15,7 @@ function Consult() {
        <button className='btn-con' >UPLOAD REPORT</button></div>
       </div>
        
-       <div className="medi">
+       <div className="medi"> 
         <h1 className='h1medi' >Grab your medicines here</h1>
         <input type="text" class="inpmed" placeholder="MEDICINE NAME"/>
        <input type="text" class="inpmed" placeholder="QUANTITY"/>
