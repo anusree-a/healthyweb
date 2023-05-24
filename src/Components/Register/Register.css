@@ -1,0 +1,74 @@
+.h{
+    text-align: center;
+    margin-top:-20px;
+    color: rgb(165, 44, 135);
+}
+.main{
+    display: flex;
+    margin-top: 60px;
+}
+.b1{
+    background-color: rgb(255, 232, 252);
+    height: 500px;
+    width: 500px;
+    margin-left: 80px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.b2{
+    background-color: rgb(255, 232, 252);
+    height: 500px;
+    width: 500px;
+    margin-left: 70px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.inp{
+    text-align: center;
+   margin-left: 110px;
+   margin-top: 50px;
+   border: none;
+   border-bottom: solid gray 1px;
+   width: 280px;
+   height: 30px;
+   border-radius: 8px;
+}
+.inps{
+    text-align: center;
+   margin-left: 70px;
+   margin-top: 35px;
+   border: none;
+   border-bottom: solid gray 1px;
+   width: 150px;
+   height: 30px;
+   border-radius: 8px;
+}
+.f{
+    display: flex;
+}
+
+.form-check{
+    margin-left: 200px;
+    margin-top: 20px;
+   
+}
+.inp2{
+    text-align: center;
+   margin-left: 80px;
+   margin-top: 35px;
+   border: none;
+   border-bottom: solid gray 1px;
+   width: 350px;
+   height: 50px;
+   border-radius: 8px;
+}
+.btnn{
+    margin-left: 200px;
+    background-color: rgb(235, 177, 215);
+    margin-top: 20px;
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+}

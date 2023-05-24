@@ -1,0 +1,51 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: rgb(238, 192, 229);
+    height: 60px;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+  .nav-links {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+  }
+  
+  .nav-links li {
+    margin-right: 10px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: black;
+  }
+  .logo{
+    height: 90px;
+    width: 90px;
+  }
+  .name-app{
+    margin-left: -400px;
+    font-style: italic;
+  }
+  .navhead{
+    
+    height: 30px;
+    width: 70px;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 5px;
+    
+    
+}
+.navhead:hover{
+    background-color: antiquewhite;
+}

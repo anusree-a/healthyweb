@@ -1,0 +1,68 @@
+.mainlib{
+    height: 2000px;
+    width: 1150px;
+    border-radius: 10px;
+    margin-left: 45px;
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.syh{
+    color: rgb(122, 6, 93);
+    margin-left: 30px;
+}
+.parad{
+    color: rgb(121, 17, 103);
+    margin-left: 40px;
+}
+.deh1{
+    margin-left: 340px;
+    color: rgb(129, 11, 100);
+    margin-top: 10px;
+}
+.expd{
+    text-align: center;
+    color: rgb(61, 6, 49);
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.dengue{
+    height:400px;
+    width:900px;
+    border:2px solid rgb(109, 15, 70);
+    border-radius:10px;
+    margin-top:10px;
+    margin-left: 130px;
+    margin-bottom: 20px;
+}
+.know{
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    background-color:rgb(202, 72, 133);
+    color: black;
+    border-radius: 7px;
+    margin-left: 350px;
+    margin-top: 10px;
+}
+
+.deh2{
+    margin-left: 340px;
+    color: rgb(129, 11, 100);
+    margin-top: 10px;
+}
+.deh3{
+    margin-left: 340px;
+    color: rgb(129, 11, 100);
+    margin-top: 10px;
+}
+.deh4{
+    margin-left: 340px;
+    color: rgb(129, 11, 100);
+    margin-top: 10px;
+}
+.deh5{
+    margin-left: 340px;
+    color: rgb(129, 11, 100);
+    margin-top: 10px;
+}
